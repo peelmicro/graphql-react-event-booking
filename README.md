@@ -1,4 +1,4 @@
-# GraphQL + React Event Booking API
+# GraphQL with Node.js, React.js and MongoDB - Full App
 
 > Code from the `GraphQL with Node.js, React.js and MongoDB - Full App` where it is explained how to create a GraphQL MongoDB API (with Node.js) and a React.js frontend from scratch.
 
