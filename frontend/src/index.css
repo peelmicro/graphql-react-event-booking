@@ -5,7 +5,8 @@ body {
 }
 
 .form-control label,
-.form-control input {
+.form-control input,
+.form-control textarea {
   width: 100%;
   display: block;
 }
@@ -22,11 +23,11 @@ body {
 .btn {
   background-color: #5101d1;
   font: inherit;
-  border: 1px solid  #5101d1;
+  border: 1px solid #5101d1;
   border-radius: 3px;
   padding: 0.25rem 1rem;
   margin-right: 1rem;
-  box-shadow: 1px 1px 5px rgba(0,0,0,0.26);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.26);
   color: white;
   cursor: pointer;
 }
